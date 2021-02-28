@@ -1,3 +1,9 @@
+'''
+
+foi utilizado o gerenc. de layout, anchor o mesmo desempenha o papel de definir uma direcao para nosso componente
+
+'''
+
 from tkinter import*
 
 root = Tk()

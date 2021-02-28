@@ -1,3 +1,10 @@
+'''
+
+primeira interface grafica criada - foi utilizada uma widget de label e tambem a propriedade mais simples do gerenc.
+de layout pack, o place
+
+'''
+
 from tkinter import*
 
 root = Tk()

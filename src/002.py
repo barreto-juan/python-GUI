@@ -1,7 +1,13 @@
+'''
+
+estudando widgets - foram usados widgets de entrada (entry) e botoes(button) tambem foram utilizados funcoes
+
+'''
+
 from tkinter import*
 
 def bt_click():
-    if (str(ed1.get()).isnumeric() and str(ed2.get()).isnumeric()):
+    if (str(ed1.get().isnumeric()) and str(ed2.get()).isnumeric()):
         lb["text"] = int(ed1.get()) + int(ed2.get())
     else:
         lb["text"] = "Valores informados inválidos!"
@@ -20,5 +26,7 @@ bt.place(x=100, y=130)
 lb = Label(root, text="Resultado aqui")
 lb.place(x=100, y=160)
 
+
+root.title("Calculadora")
 root.geometry("300x300+100+100")
 root.mainloop()

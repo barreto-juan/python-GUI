@@ -1,3 +1,9 @@
+'''
+
+gerenciador de layout pack - side - com ele nos definimos um sentido para nossos componentes na janela
+
+'''
+
 from tkinter import*
 
 root = Tk()

@@ -1,3 +1,9 @@
+'''
+
+alteracao de conteudo de label atraves do que o usuario digitar
+
+'''
+
 from tkinter import *
 from functools import partial
 
