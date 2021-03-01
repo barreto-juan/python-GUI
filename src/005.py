@@ -1,6 +1,6 @@
 '''
 
-foi utilizado o gerenc. de layout, anchor o mesmo desempenha o papel de definir uma direcao para nosso componente
+foi utilizado o gerenc. de layout pack - anchor - o mesmo desempenha o papel de definir uma direcao para nosso componente
 
 '''
 

@@ -1,6 +1,6 @@
 '''
 
-expand - propriedade que deixa nossos componentes responsivos
+estaudo do gernec. de laytou pack - expand - propriedade que deixa nossos componentes responsivos
 
 '''
 

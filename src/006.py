@@ -1,6 +1,6 @@
 '''
 
-foi aplicado o gerenc. de layout fill, o qual faz com que o componente estenda ao tamanho da janela/disponivel, podendo
+foi aplicado o gerenc. de layout pack - fill - o qual faz com que o componente estenda ao tamanho da janela/disponivel, podendo
 ser no sentido vertical ou horizontal
 
 '''
