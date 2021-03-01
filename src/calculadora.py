@@ -74,5 +74,5 @@ lbres.grid(row=4, column=0, columnspan=2)
 
 
 root.title("Calculadora")
-root.geometry("400x300+200+200")
+root.geometry("230x150+200+200")
 root.mainloop()
